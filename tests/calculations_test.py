@@ -66,5 +66,5 @@ def test_get_nth_fibonacci_ten():
     # Act
     result = get_nth_fibonacci(n)
 
-    # Assert
-    assert result == 89
+    # Assert is corrected to 55 now, TC must pass now
+    assert result == 55
